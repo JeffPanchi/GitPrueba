@@ -1,0 +1,17 @@
+commit 295e8749003907c4a3b6ee5f5a907fb068dac523
+Author: Jeff <jefpanchi@gmail.com>
+Date:   Fri Feb 21 01:23:28 2020 -0500
+
+    Se corrigio un parrafo
+
+commit 314d7c3c140bce38d1bfcbb9488607a26297da5e
+Author: Jeff <jefpanchi@gmail.com>
+Date:   Fri Feb 21 01:20:48 2020 -0500
+
+    Agregamos cambios en el inicio
+
+commit d1fc424601e458976974a97cd941e8300a9ab033
+Author: Jeff <jefpanchi@gmail.com>
+Date:   Fri Feb 21 01:11:21 2020 -0500
+
+    Iniciamos
